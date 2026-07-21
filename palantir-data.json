@@ -35,6 +35,11 @@
       "id": "3ad57282-2b60-40dc-bca1-dc52457de004",
       "name": "QA Automation",
       "createdAt": "2026-07-21T13:29:57.957Z"
+    },
+    {
+      "id": "9a2e48a8-459a-4313-be32-ddfc247ecab7",
+      "name": "Private",
+      "createdAt": "2026-07-21T13:30:07.605Z"
     }
   ],
   "workItems": []
