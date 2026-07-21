@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "projects": [
+    {
+      "id": "inbox",
+      "name": "Inbox",
+      "createdAt": "2026-07-21T13:17:01.475Z"
+    },
+    {
+      "id": "2801ee73-0b3e-49c9-ad84-0279a6e644f8",
+      "name": "Amit",
+      "createdAt": "2026-07-21T13:26:38.933Z"
+    }
+  ],
+  "workItems": []
+}
